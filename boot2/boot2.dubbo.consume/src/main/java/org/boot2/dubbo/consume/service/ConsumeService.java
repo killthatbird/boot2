@@ -1,6 +1,6 @@
 package org.boot2.dubbo.consume.service;
 
-import org.boot2.dubbo.IProvideService;
+import org.boot2.dubbo.service.IProvideService;
 import org.springframework.stereotype.Service;
 
 import com.alibaba.dubbo.config.annotation.Reference;
